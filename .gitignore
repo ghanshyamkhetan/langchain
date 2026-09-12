@@ -1,0 +1,19 @@
+# Virtual environment
+dba-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Secrets
+config.py
+
+# Vector database / local data
+*.db
+
+# IDE
+.vscode/
+.idea/
